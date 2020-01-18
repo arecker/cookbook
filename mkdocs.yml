@@ -1,6 +1,3 @@
 site_name: Recker Family Cookbook
 theme: readthedocs
 docs_dir: recipes
-nav:
-  - "Home": "index.md"
-  - "Dutch Baby": "dutch-baby.md"
