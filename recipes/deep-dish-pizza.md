@@ -39,7 +39,7 @@
    lightly oiled bowl, roll it around to coat, then cover the bowl
    with a plate for 1 HOUR.
 
-## Sauce (45 min)
+### Sauce (45 min)
 
 1. Cover the bottom of a dutch oven in olive oil.  Add three grated
    cloves of garlic and simmer gently for about five minutes.
@@ -57,7 +57,7 @@
 6. Add 1 TBSP of butter and turn the heat to low.  Once the butter
    melts, turn the heat off and allow to cool.
 
-## Pizza (45 min)
+### Pizza (45 min)
 
 1. Pre-heat the oven to 400F.  As it heats, leave a 12 INCH CAST IRON
    SKILLET in the oven until it is just hot enough to melt butter.
