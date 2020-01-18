@@ -1,3 +1,2 @@
-# Welcome
+# Recker Family Cookbook
 
-Welcome to the Recker Family Cookbook!

@@ -3,5 +3,5 @@ theme: readthedocs
 repo_url: https://github.com/arecker/cookbook
 docs_dir: recipes
 nav:
-  - "Home": "welcome.md"
+  - "Home": "index.md"
   - "Dutch Baby": "dutch-baby.md"
