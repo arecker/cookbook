@@ -1,6 +1,5 @@
 site_name: Recker Family Cookbook
 theme: readthedocs
-repo_url: https://github.com/arecker/cookbook
 docs_dir: recipes
 nav:
   - "Home": "index.md"
