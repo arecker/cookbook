@@ -26,3 +26,8 @@
 5. Serve immediately out of the oven.  Coat generously in powdered
    sugar and squeezed lemon.
 
+## References
+
+- [Food Wishes: Dutch Baby Recipe]
+
+[Food Wishes: Dutch Baby Recipe]: https://youtu.be/kyxEFj7bgHI
