@@ -2,3 +2,4 @@ site_name: Recker Family Cookbook
 theme: readthedocs
 docs_dir: recipes
 repo_url: https://github.com/arecker/cookbook/
+edit_uri: edit/master/recipes/
