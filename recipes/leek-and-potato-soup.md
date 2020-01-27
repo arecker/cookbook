@@ -1,6 +1,6 @@
 # Leek and Potato Soup
 
-![](images/leek-and-potato-soup.jpg)
+![](images/leek-and-potato-soup.png)
 
 ## Materials
 
