@@ -40,7 +40,7 @@ it up.
 - tomato paste (1 TBSP)
 - dried oregano (1 TSP)
 - anchovy fillets (9, save oil)
-- marinara sauce (1.5)
+- marinara sauce (1 26 oz jar)
 - water (0.25 cups)
 
 ### Procedure
