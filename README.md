@@ -25,10 +25,11 @@ recipe, but don't go food blogger on us and write a full blown novel.
 #### Materials
 
 List the materials needed for the recipe in order of appearance.  Be
-sure to specify quantity if applicable and abbreviate units.
+sure to specify quantity if applicable and abbreviate units.  Follow
+the format **ingredient, form (quantity)**.
 
 ``` markdown
-- eggs (3)
+- eggs, beaten (3)
 - flour (1/2 cup) # 0.5 cup(s) also acceptable
 - sugar (1 tbsp)
 ```
@@ -54,14 +55,14 @@ This is a secret family recipe.
 
 ## Materials
 
-- Butter (2 tbsp)
+- butter (2 tbsp)
 
 ## Procedure
 
 1. Melt that butter
 2. Look at that butter melt
 
-### References
+## References
 
 - [Google: "Melted Butter" query]
 
