@@ -1,4 +1,7 @@
 site_name: Recker Family Cookbook
+summary: |
+  A collection of tried and true recipes, curated and cherished by the
+  Recker family.
 theme: readthedocs
 docs_dir: recipes
 repo_url: https://github.com/arecker/cookbook/
