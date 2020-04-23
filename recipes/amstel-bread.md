@@ -21,7 +21,7 @@ light beer.
 - Amstel light (0.25 cups)
 - yeast, dry active (0.25 tsp)
 - sugar (1 tsp)
-- kosher salt (1.50 tsp)
+- kosher salt (1.5 tsp)
 
 ## Procedure
 
