@@ -1,5 +1,7 @@
 # Focaccia
 
+Author: Sarah Recker
+
 ![](images/focaccia.jpg)
 
 ## Materials
