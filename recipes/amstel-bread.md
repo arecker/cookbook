@@ -4,11 +4,10 @@ Author: Alex Recker
 
 ![](images/amstel-bread.jpg)
 
-I proudly offer my recipe for Amstel bread - reliable, low
-maintenance - it's like the M16 of comforting dinner sides.  It makes
-a small loaf that serves about 4-5 people, and it's incredibly easy to
-throw together.  No kneading required and very conservative with
-yeast.
+I proudly offer my recipe for Amstel bread - reliable, consistent, and
+low maintenance - it's like the M16 of dinner sides.  It makes a small
+loaf that serves about 4-5 people, and it's incredibly easy to throw
+together.  No kneading required and very conservative with yeast.
 
 I usually throw it together around 11 PM.  That way, it's ready to
 proof by 4 PM and ready to bake by dinner time.
