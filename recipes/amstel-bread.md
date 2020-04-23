@@ -46,10 +46,15 @@ light beer.
    
 6. Cover with tinfoil and set aside to proof at room temperature for
    approximately **2-3 hours**.
+
+7. Remove foil.  Using a very sharp knife, make a slash down the
+   middle of the of the dough surface about a quarter inch deep.  It
+   doesn't need to be pretty - this only serves as a weak point to
+   control where the cracking happens.
    
-7. Bake at **450 F** for **35 minutes**.  When it is cooked through,
+8. Bake at **450 F** for **35 minutes**.  When it is cooked through,
    the middle of the dough should sound hollow when flicked, like a
    bongo drum.
    
-8. Remove from the coven to cool completely in the pan.  Serve with
+9. Remove from the coven to cool completely in the pan.  Serve with
    butter.
