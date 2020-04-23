@@ -1,11 +1,8 @@
 site_name: Recker Family Cookbook
-summary: |
+site_author: Alex Recker
+site_description: |
   A collection of tried and true recipes, curated and cherished by the
   Recker family.
-authors:
-  - Alex Recker
-  - Jane Recker
-  - Sarah Oster
 theme: readthedocs
 docs_dir: recipes
 repo_url: https://github.com/arecker/cookbook/
