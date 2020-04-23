@@ -57,5 +57,5 @@ light beer.
    the middle of the dough should sound hollow when flicked, like a
    bongo drum.
    
-9. Remove from the coven to cool completely in the pan.  Serve with
+9. Remove from the oven to cool completely in the pan.  Serve with
    butter.
