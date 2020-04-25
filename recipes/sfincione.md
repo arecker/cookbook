@@ -39,11 +39,15 @@ it up.
 - tomato paste (1 tbsp)
 - dried oregano (1 tsp)
 - anchovy fillets, save oil (4)
-- marinara sauce (1 26 oz jar)
+- marinara sauce (1 26 oz jar) [^1]
 - water (0.25 cups)
 - kosher salt
 - pepper
 
+[^1]: if you don't have marinara, you can blend a 28 oz can of peeled
+    tomatoes with salt, sugar, and a splash of balsamic vinegar.
+    There's plenty of flavor in the sauce already - it won't make much
+    of a difference.
 
 ### Procedure
 
@@ -63,11 +67,12 @@ it up.
 
 - bread crumbs (0.75 cups)
 - pecorino romano, finely grated (1 cup)
-- mozzarella, shredded or torn (3 oz) [^1]
+- mozzarella, shredded or torn (3 oz) [^2]
 - provolone, shredded or torn (3 oz)
+- basil, chopped or torn (excess)
 - olive oil (excess)
 
-[^1]: fresh mozzarella works well too, as long as it's used
+[^2]: fresh mozzarella works well too, as long as it's used
     conservatively.
 
 ### Procedure
@@ -83,14 +88,15 @@ it up.
 4. Evenly spread the sauce over the dough, stopping about an inch from
    the edge of the pan on all.  For best results, use the bottom of a
    soup ladle.
-5. Evenly cover the sauce in shredded mozzarella and provolone.
+5. Throw some basil over the sauce.
+6. Evenly cover the sauce in shredded mozzarella and provolone.
    Moisture is the enemy - go easy on the fresh cheese, but try to
    focus on the area between the sauce and the outside crust.
-6. Combine the breadcrumbs with finely grated pecorino.  Add the
+7. Combine the breadcrumbs with finely grated pecorino.  Add the
    leftover oil from the anchovies and combine with a fork.  Keep
    adding additional olive oil until the breadcrumbs are moistened.
-7. Evenly cover the top of the cheese with the breadcrumb mixture.
-8. Bake pizza uncovered on the middle rack for 30 minutes or until
+8. Evenly cover the top of the cheese with the breadcrumb mixture.
+9. Bake pizza uncovered on the middle rack for 30 minutes or until
    golden brown.  Transfer to a cooling rack to avoid getting the
    crust soggy.
 
