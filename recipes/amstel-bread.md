@@ -17,11 +17,10 @@ light beer.
 
 ## Materials
 
-- water, cold (0.25 cups)
-- Amstel light (0.25 cups)
+- water, cold (0.5 cups)
+- Amstel light (0.5 cups)
 - yeast, dry active (0.25 tsp)
 - flour, all purpose (2 cups)
-- sugar (1 tsp)
 - kosher salt (1.5 tsp)
 
 ## Procedure
