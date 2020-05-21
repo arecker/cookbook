@@ -41,7 +41,7 @@
 8. Mist with water, then bake the dough covered in a cold dutch oven
    at 450 F for 20 minutes.
 
-9. Remove the lid and bake for an additional 30 minutes.
+9. Remove the lid and bake for an additional 25 minutes.
 
 10. Remove from the oven and transfer to a rack.  Allow the loaf to
 	cool completely before cutting.
