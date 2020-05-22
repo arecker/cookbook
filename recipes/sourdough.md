@@ -7,7 +7,7 @@
 - sourdough starter (0.25 cup)
 - water, cold (1 cup)
 - salt, kosher (1.5 tsp)
-- flour, all purpose (2.5 cups)
+- bread flour (2.5 cups)
 
 ## Procedure
 
@@ -21,27 +21,30 @@
    together.  It should be sticky enough to pull the dough off the
    sides of the bowl.
 
-4. Cover the bowl with a towel or tinfoil and set aside for four
-   hours.  During this time, pull and fold the dough over itself about
-   ten times once every hour.
+4. Cover the bowl with a towel and set aside for 6 hours.  During this
+   time, pull and fold the dough over itself about ten times once
+   every hour.
 
 5. Scoop the dough onto a clean table.  Sprinkle the top of the dough
    ball with flour.  Using a circular motion from the bottom, pinch
    and spin the dough into a tight ball.
 
-6. Move dough ball to a wooden banneton and cover.  Allow dough to
-   rise at room temperature for ten hours, or until it passes "the
-   poke test".  If you poke the dough, it should be soft, and even
-   though it should slowly spring back to the touch, an imprint should
-   be left from your finger.
+6. Move the dough ball to a wooden, well floured banneton and cover
+   with a dry towel.  Leave the covered banneton in the fridge
+   overnight.
 
-7. Transfer from the banneton to a square of parchment paper.  Score
-   the dough and lower into a cold dutch oven.
+7. The next morning, take the banneton out of the fridge and place it
+   in a warm place.  Let the dough warm up and rise until it passes
+   the "poke test" - that is, if you poke the dough, it should spring
+   back slowly but not completely fill the impression.
 
-8. Mist with water, then bake the dough covered in a cold dutch oven
-   at 450 F for 20 minutes.
+8. Transfer from the banneton to a square silpat.  Score the dough and
+   lower into a cold dutch oven.
+
+8. Spray the top of the dough and sides of the dough oven with water.
+   Cover the dutch oven and bake with the lid on for 20 minutes.
 
 9. Remove the lid and bake for an additional 25 minutes.
 
 10. Remove from the oven and transfer to a rack.  Allow the loaf to
-	cool completely before cutting.
+    cool completely before cutting.
