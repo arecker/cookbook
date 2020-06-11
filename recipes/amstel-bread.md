@@ -52,7 +52,7 @@ light beer.
    doesn't need to be pretty - this only serves as a weak point to
    control where the cracking happens.
    
-8. Bake at **450 F** for **25 minutes**.  When it is cooked through,
+8. Bake at **450 F** for **35 minutes**.  When it is cooked through,
    the middle of the dough should sound hollow when flicked, like a
    bongo drum.  For best results, bake with a pan filled with water in
    the oven, and spritz the top of the loaf with cold water 10 minutes
