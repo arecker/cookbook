@@ -45,4 +45,4 @@ butter.
    minutes uncovered at 450.  Remove immediately to a rack and leave
    to cool.
 
-[krang]: recipes/krang/
+[krang]: krang.md
