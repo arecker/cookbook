@@ -17,8 +17,11 @@ giant brain.
 
 ### Development
 
-1. Add flour and water into a non-air tight jar.  Stir, ensuring that
-   all the flour is wet.
+It takes 5-10 days to make a starter from scratch, but all you need is
+flour and water.  The smell with get worse, then better.
+
+1. Add flour and water into a non air tight jar [^1].  Stir, ensuring
+   that all the flour is wet.
    
 2. Set aside in a warm place.
 
@@ -29,6 +32,9 @@ giant brain.
 
 4. Once starter doubles in size throughout the day after a feeding, it
    is ready to use.
+   
+[^1]: should be loose enough to allow gas to escape, but covered
+    enough to keep fruit flies out.
 
 ### Feeding
 
@@ -40,8 +46,9 @@ between 7-8 PM (which is a great time to start a loaf of bread).
 
 2. Stir in 113 g of water.
 
-3. Discard the rest of the starter in a jar and rinse with hot water.
-   Add starter and water mixture back into the jar.
+3. Discard the rest of the starter remaining in the jar by rinsing
+   with hot water in the sink.  Add starter and water mixture back
+   into the clean jar.
    
 4. Add 113 g of flour and stir until all the flour is moist.
 
