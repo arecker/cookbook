@@ -26,10 +26,11 @@ butter.
 
 2. Cover the container and leave to rest for 30 minutes.
 
-3. Remove the lid and fold the dough.  Stretch the dough as far as it
-   will go without breaking, pulling it over the top and to the other
-   side.  Go top to bottom, bottom to top, left to right, right to
-   left, then flip the dough over like a pillow.  Cover and let rest.
+3. Remove the lid and fold the dough.  With wet hands, stretch the
+   dough as far as it will go without breaking, pulling it over the
+   top and to the other side.  Go top to bottom, bottom to top, left
+   to right, right to left, then flip the dough over like a pillow.
+   Cover and let rest.
    
 4. Fold the dough every 30 minutes for the next few hours.  After
    about 4-5 hours, it will become soft, smooth, shiny, and it won't
