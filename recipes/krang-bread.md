@@ -44,6 +44,6 @@ butter.
    and very runny.  Should take 4-5 hours. [7:30 AM]
    
 6. Bake at 450F for 45 minutes, uncovered.  Immediately remove from
-   pan and leave to cool on a rack.
+   pan and leave to cool on a rack. [11:30 AM]
 
 [krang]: krang.md
