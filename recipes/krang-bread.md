@@ -4,6 +4,8 @@ Author: Alex Recker
 
 ![](images/krang-bread.jpg)
 
+![](images/krang-bread-crumb.jpg)
+
 Krang Bread is a simple, no fuss, versatile sourdough.  It's makes as
 good of a sandwich, as it does french toast, as it does regular toast,
 and at the end of the day it still tastes great with just a swipe of
