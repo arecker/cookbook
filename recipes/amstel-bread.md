@@ -10,18 +10,18 @@ loaf that serves about 4-5 people, and it's incredibly easy to throw
 together.  No kneading required and very conservative with yeast.
 
 I usually throw it together around 11 PM.  That way, it's ready to
-proof by 4 PM and ready to bake by dinner time.
+proof by 10 AM and ready to bake around lunch time.
 
 This works with **any beer**, although I'd recommend you'd stick to
 light beer.
 
 ## Materials
 
-- water, cold (0.5 cups)
-- Amstel light (0.5 cups)
-- yeast, dry active (0.25 tsp)
-- flour, all purpose (2 cups)
-- kosher salt (1.5 tsp)
+- water, cold (1 cup)
+- Amstel light (1 cup)
+- yeast, dry active (0.50 tsp)
+- flour, all purpose (4 cups)
+- kosher salt (3 tsp)
 
 ## Procedure
 
@@ -31,7 +31,7 @@ light beer.
    
 2. Cover the bowl tightly in tinfoil.  Set aside in a room temperature
    place.  If you have a drafty house, a turned off oven works well.
-   Let the yeast rise for approximately **18 hours**.
+   Let the yeast rise overnight.
    
 3. Remove the tinfoil.  Using a rubber spatula, deflate the dough by
    scraping the sides and turning it over onto itself a few times with
@@ -52,11 +52,6 @@ light beer.
    doesn't need to be pretty - this only serves as a weak point to
    control where the cracking happens.
    
-8. Bake at **450 F** for **35 minutes**.  When it is cooked through,
-   the middle of the dough should sound hollow when flicked, like a
-   bongo drum.  For best results, bake with a pan filled with water in
-   the oven, and spritz the top of the loaf with cold water 10 minutes
-   into baking.
+8. Bake at **450 F** for **35 minutes**.
    
-9. Remove from the oven to cool completely in the pan.  Serve with
-   butter.
+9. Immediately remove from pan and cool on a rack.
