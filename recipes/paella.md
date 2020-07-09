@@ -64,6 +64,6 @@ broth while you're infusing it with the shrimp shells.
 
 ## References
 
-- [Food Wishes: Food Wishes: Quick & Easy Paella]
+- [Food Wishes: Quick & Easy Paella]
 
 [Food Wishes: Quick & Easy Paella]: https://www.youtube.com/watch?v=tiJMJznAi0Y
