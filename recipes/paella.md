@@ -6,7 +6,8 @@ Author: Alex Recker
 
 This paella recipe is a Chef John classic.  Traditional paella is made
 with a special paella dish, but I find that it works just as well with
-a large cast iron skillet.  Take the following ingredients only as a
+a large cast iron skillet (but any heavy bottom, shallow, oven safe
+pan should do).  Take the following ingredients only as a
 recommendation, as it pretty much works with any vegetables you have
 at your disposal.  Apart from the rice and broth, the quantities
 listed here are very flexible, so just use whatever you know will fit
