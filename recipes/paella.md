@@ -26,6 +26,7 @@ in your trusty skillet.
 - white rice, medium grain (1.3 cups)
 - paprika (ex)
 - salt (ex)
+- olive oil (ex)
 
 ## Procedure
 
@@ -64,9 +65,9 @@ in your trusty skillet.
 9. Remove the skillet from the oven and place it back on the stove.
    Cook over medium high heat for 3-5 minutes.  Allow to cool.
 
-10. Top with fresh parsley.  Serve with a wedge of lemon.  Be sure to
-   include some of the bottom _Socarrat_ (burnt caramelized bits) on
-   every plate.
+10. Top with fresh parsley and a glug of olive oil.  Serve with a
+   wedge of lemon.  Be sure to include some of the bottom _Socarrat_
+   (burnt caramelized bits) on every plate.
 
 [^1]: Also works well with carrots, celery, parsnip, and pretty much
 	any other vegetable you have at your disposal.  Just make small
