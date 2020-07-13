@@ -45,10 +45,10 @@ _Preheat oven to 350 F_
 3. Over a period of five minutes, slowly add 1 cup of boiling water
    while mixing.
 
-4. Pour the batter out into two lightly buttered and floured cake
-   pans.
+4. Pour the batter out into two lightly buttered and floured 9 inch
+   cake pans.
    
-5. Bake for 35 minutes at 350F.  Allow it to cool in the pan.
+5. Bake for 30 minutes at 350F.  Allow it to cool in the pan.
 
 ## References
 
