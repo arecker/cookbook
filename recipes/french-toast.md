@@ -10,7 +10,7 @@
 - butter (1 tbsp)
 - sugar (1/4 cup)
 - cinnamon (1 tbsp)
-- French bread (5 slices)
+- bread
 
 ## Procedure
 
@@ -28,9 +28,8 @@
 6. Flip each slice of bread once it has been browned and caramelized.
    Use the bread slices to soak up the remaining butter so it doesn't
    burn.
-7. Remove the bread slices.  In a large mixing bowl, coat the toasted
-   bread slices in the cinnamon sugar mixture.  Toss until liberally
-   coated.
+7. Remove the bread slices to a plate coated in the cinnamon sugar
+   mixture.  Dump a little more cinnamon sugar on top and serve.
 8. Serve immediately.  Wipe out the pan of any remaining butter before
    beginning another batch.
    
