@@ -26,26 +26,31 @@ butter.
    Use your hands to incorporate until all the flour is mixed and it
    comes together in a shaggy dough, but don't knead.  [7:00 PM]
 
-2. Cover the container and leave to rest for 30 minutes. [7:30 PM]
+2. Cover the container and leave to rest for 45 minutes. [7:45 PM]
 
 3. Remove the lid and fold the dough.  With wet hands, stretch the
    dough as far as it will go without breaking, pulling it over the
    top and to the other side.  Go top to bottom, bottom to top, left
    to right, right to left, then flip the dough over like a pillow.
    Flatten at the bottom of the container, then cover to rest for
-   another 30 minutes. [8:00 PM]
-   
+   another 30 minutes. If the dough is still too loose to be handled,
+   just do your best to stretch it out wherever possible [7:45 PM]
+
 4. Fold the dough every 30 minutes for the next few hours.  After
-   about 4-5 hours, it will become soft, smooth, shiny, and it won't
+   about 4 hours, it will become soft, smooth, shiny, and it won't
    stick as much.  Remove from the bowl and fold into a log on a wet
-   counter.  Drop it into an oiled 10x5 in. pan seem side down.
-   Refrigerate covered in foil overnight. [12:00 AM]
-   
-5. Remove pan from fridge.  Leave at room temperature until the dough
+   counter, and allow it to rest for 20 minutes [11:00 PM].
+
+6. With wet hands, roll the dough into a log and drop it in the pan.
+   Using wet fingers, tuck the sides of the dough down to the bottom
+   of the pan.  Cover tightly in foil and leave in the fridge
+   overnight [11:20 PM].
+
+7. Remove pan from fridge.  Leave at room temperature until the dough
    reaches just below the top of the pan.  The top should be bubbly
-   and very runny.  Should take 4-5 hours. [7:30 AM]
-   
-6. Bake at 450F for 45 minutes, uncovered.  Immediately remove from
+   and very runny.  Should take 4-5 hours [7:30 AM]
+
+8. Bake at 450F for 45 minutes, uncovered.  Immediately remove from
    pan and leave to cool on a rack. [11:30 AM]
 
 [krang]: krang.md
