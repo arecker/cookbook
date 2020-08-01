@@ -26,7 +26,7 @@ butter.
    Use your hands to incorporate until all the flour is mixed and it
    comes together in a shaggy dough, but don't knead.  [7:00 PM]
 
-2. Cover the container and leave to rest for 45 minutes. [7:45 PM]
+2. Cover the container and leave to rest for 45 minutes. [7:15 PM]
 
 3. Remove the lid and fold the dough.  With wet hands, stretch the
    dough as far as it will go without breaking, pulling it over the
@@ -34,21 +34,22 @@ butter.
    to right, right to left, then flip the dough over like a pillow.
    Flatten at the bottom of the container, then cover to rest for
    another 30 minutes. If the dough is still too loose to be handled,
-   just do your best to stretch it out wherever possible [7:45 PM]
+   just do your best to stretch it out wherever possible [8:00 PM]
 
 4. Fold the dough every 30 minutes for the next few hours.  After
    about 4 hours, it will become soft, smooth, shiny, and it won't
    stick as much.  Remove from the bowl and fold into a log on a wet
-   counter, and allow it to rest for 20 minutes [11:00 PM].
+   counter, and allow it to rest for 15 minutes [11:15 PM].
 
 6. With wet hands, roll the dough into a log and drop it in the pan.
    Using wet fingers, tuck the sides of the dough down to the bottom
    of the pan.  Cover tightly in foil and leave in the fridge
-   overnight [11:20 PM].
+   overnight [11:30 PM].
 
 7. Remove pan from fridge.  Leave at room temperature until the dough
    reaches just below the top of the pan.  The top should be bubbly
-   and very runny.  Should take 4-5 hours [7:30 AM]
+   and very runny.  If possible, leave it in a warm spot.  Should take
+   4-5 hours [7:30 AM]
 
 8. Bake at 450F for 45 minutes, uncovered.  Immediately remove from
    pan and leave to cool on a rack. [11:30 AM]
