@@ -2,7 +2,7 @@
 
 Author: Alex Recker
 
-![](images/krang-bread.jpg)
+![](images/krang-bread.png)
 
 ![](images/krang-bread-crumb.jpg)
 
