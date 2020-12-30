@@ -23,22 +23,18 @@ butter.
 
 ## Procedure
 
-1. Combine all ingredients in a large, wide, flat bottomed container.
-   Use your hands to incorporate until all the flour is mixed and it
-   comes together in a shaggy dough, but don't knead.
+1. Combine water and starter in a large container.  Use your hands to
+   break up the starter until it dissolves completely in the water.
 
-2. Cover the container and leave to rest for 45 minutes.
+2. Add the flour.  Mix with your hands until all the flour is wet.
+   Cover and set aside to rest for 30-45 minutes.
 
-3. Remove the lid and fold the dough.  With wet hands, stretch the
-   dough as far as it will go without breaking, pulling it over the
-   top and to the other side.  Go top to bottom, bottom to top, left
-   to right, right to left, then flip the dough over like a pillow.
-   Flatten at the bottom of the container, then cover to rest for
-   another 30 minutes. If the dough is still too loose to be handled,
-   just do your best to stretch it out wherever possible.
+3. Remove the lid and add the salt.  Fold the dough.  There are plenty
+   of videos on how to fold dough, so watch a few and pick your
+   favorite, they're all good.
 
 4. Fold the dough every 30 minutes for the next few hours.  After
-   about 4 hours, it will become soft, smooth, shiny, and it won't
+   about 3-4 hours, it will become soft, smooth, shiny, and it won't
    stick as much.  Remove from the bowl and fold into a log on a moist
    counter, and allow it to rest for 15 minutes.
 
