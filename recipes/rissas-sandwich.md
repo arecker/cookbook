@@ -5,7 +5,7 @@ Author: Alex Recker
 ![](images/rissas-sandwich.jpg)
 
 _Rissa's sandwich_, Marissa's favorite open faced turkey and swiss
-sandwich, have been a staple of our quarantine lunches.  Best served
+sandwich, has been a staple of our quarantine lunches.  Best served
 with a beer and a little pile of goldfish crackers.
 
 ## Materials
