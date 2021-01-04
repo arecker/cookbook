@@ -54,9 +54,10 @@ with butter, not cream.
 
 1. Turn off the heat.  Remove bones and bouquet garnis if used and
    discard.
-2. Pour the soup through a strainer into a second pot.  Use the back
+2. Thoroughly blend the soup with an immersion blender.
+3. Pour the soup through a strainer into a second pot.  Use the back
    of a ladle to wring it through the strainer.
-3. Add salt and pepper to taste while you warm the soup up.  Finish by
+4. Add salt and pepper to taste while you warm the soup up.  Finish by
    stirring in a pad of butter.  Serve with pan fried croutons.
 
 ## References
