@@ -35,20 +35,37 @@ butter.
 
 4. Fold the dough every 30 minutes for the next few hours.  After
    about 3-4 hours, it will become soft, smooth, shiny, and it won't
-   stick as much.  Remove from the bowl and fold into a log on a moist
-   counter, and allow it to rest for 15 minutes.
+   stick as much.
 
-6. With wet hands, roll the dough into a log and drop it into a 10x5
-   in. pan lined with parchment paper.  Using wet fingers, tuck the
-   sides of the dough down to the bottom of the pan.  Cover tightly in
-   foil and leave in the fridge overnight.
+5. Wet your finger tips.  Gently dislodge the dough from the
+   container, working around the outside with your hands held flat
+   like flippers.  Dump the dough out onto a clean counter.
 
-7. Remove pan from fridge.  Leave at room temperature until the dough
-   reaches just below the top of the pan.  The top should be bubbly
-   and very runny.  If possible, leave it in a warm spot or in a
-   slightly warmed oven.  Should take 2 hours.
+6. With wet hands, work around the outside of the dough, gently
+   stretching it out flat like a canopy.  Gently press out the air
+   bubbles.
 
-8. Bake at 450F for 40 minutes, uncovered.  Immediately remove from
-   pan and leave to cool on a rack.
+7. Fold each corner into the center and ball it up into a big bubble.
+   Quickly flip it upside down and set it on a dry part of the
+   counter.  Allow to rest for twenty minutes.
+
+8. Take note of how the dough looks after bench rest.  It should be
+   flatter, but the outsides should still be round like a bubble.  If
+   they taper, that means you didn't kneed your dough enough.
+
+9. With wet hands, work your way underneath the outsides until you can
+   quickly flip it upside down on another part of the counter.  Try
+   not to break the surface of the dough.  Roll the dough into a log
+   and transfer it onto a piece of parchment paper.  In one swift
+   motion, drop the parchment paper and dough into a 10x5 pan.  Cover
+   tightly in tinfoil and leave in the fridge over night.
+
+10. Remove pan from fridge.  Leave at room temperature until the dough
+    reaches just below the top of the pan.  The top should be bubbly
+    and very runny.  If possible, leave it in a warm spot or in a
+    slightly warmed oven.  Should take 2 hours.
+
+11. Bake at 450F for 40 minutes, uncovered.  Immediately remove from
+    pan and leave to cool on a rack.
 
 [krang]: krang.md
