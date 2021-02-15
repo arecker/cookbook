@@ -36,7 +36,7 @@ Author: Dirk Recker
    covered in foil, 250 degree oven for 30 min.
 4. Remove chicken, let it rest, and cut up in small pieces.
 
-## Base
+### Base
 
 1. Saute carrots, celery and shallots in Dutch oven for about 5 min.  Let
    it absorb all that deliciousness from the chicken thighs.
@@ -60,7 +60,7 @@ Author: Dirk Recker
 10. As broth gets to desired thickness, add chopped, cooked chicken
     and the andouille sausage.
 
-## Finishing
+### Finishing
 
 Keep tasting the broth – you want a hint of lemon and a little heat.
 Continue cooking with lid on.  Potatoes need some time to get
