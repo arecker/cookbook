@@ -1,6 +1,6 @@
 # Deep Dish Pizza
 
-![](images/deep-dish-pizza.jpg)
+![](images/deep-dish-pizza.png)
 
 This is my deep dish pizza recipe, which was the result of about a
 month of on-and-off trials trying to find the best deep dish pizza
@@ -100,4 +100,3 @@ favorite part.
 10. Bake the pizza at 400F for 30 min.  Remove from the oven and
     sprinkle with freshly grated parmesan cheese.  Allow pizza to cool
     for about ten minutes.
-

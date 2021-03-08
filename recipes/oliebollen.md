@@ -2,7 +2,7 @@
 
 Author: Alex Recker
 
-![](./images/oliebollen.jpg)
+![](./images/oliebollen.png)
 
 _Oliebollen_, fried eggy donuts, are traditionally served in the
 Netherlands around New Year's Eve.  _Gelukkig nieuwjaar!_
