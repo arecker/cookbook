@@ -6,16 +6,16 @@ Author: Sarah Recker
 
 ## Materials
 
-- 1/3 cup warm water (about 110°F)
-- teaspoons sugar or honey
-- (0.25 ounce) package active-dry yeast
-- 1/2 cups all purpose flour
+- 1 1/3 cup warm water (about 110°F)
+- 2 teaspoons sugar or honey
+- 1 package (0.25 ounce) active-dry yeast
+- 3 1/2 cups all purpose flour
 - 1/4 cup extra virgin olive oil [^1]
-- teaspoons flaky sea salt, plus extra for sprinkling
-- sprigs of fresh rosemary [^2]
+- 2 teaspoons flaky sea salt, plus extra for sprinkling
+- 2 sprigs of fresh rosemary [^2]
 
 [^1]: plus more for drizzling (helps if you have one of those drizzler
-	bottles) I love Trader Joe’s Spanish olive oil!
+    bottles) I love Trader Joe’s Spanish olive oil!
 
 [^2]: or any desired herbs, fresh or dried / other toppings
 
