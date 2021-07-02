@@ -23,6 +23,11 @@ it in olive oil at the beginning of the recipe and take it out before
 you add the garlic.  The pork fat really enhances the taste of the
 sauce, and the crispy pieces of pork make a good pizza topping.
 
+## Special Equipment
+
+- pizza peel
+- pizza stone
+
 ## Dough
 
 ### Materials
@@ -32,7 +37,7 @@ sauce, and the crispy pieces of pork make a good pizza topping.
 - honey (1 tsp)
 - kosher salt (1 tsp)
 - olive oil (1 tbsp)
-- bread flour (3 cups)
+- bread flour (3 cups, loosely packed)
 
 ### Procedure
 
@@ -42,7 +47,8 @@ sauce, and the crispy pieces of pork make a good pizza topping.
 2. Add salt and olive oil.  Stir.
 
 3. Add bread flour.  Using a mixer or a spoon, combine until it forms
-   a cohesive dough.
+   a cohesive dough.  If dry flour collects at the bottom of the bowl,
+   dribble a little bit of hot water down the side and keep mixing.
 
 4. Using a mixer or your hands, kneed the dough until it "cleans" the
    sides of the bowl.  Continue to kneed until the dough springs back
@@ -64,18 +70,17 @@ sauce, and the crispy pieces of pork make a good pizza topping.
 
 ### Materials
 
-- olive oil (3 tbsp)
+- olive oil (3 tbsp, or enough to cover bottom of pan)
 - garlic, sliced (3 cloves)
 - kosher salt
 - tomato paste (1 tbsp)
 - oregano (1 tbsp)
 - san marzano tomatoes, whole & peeled (1 28 oz can)
-- sugar (to taste)
 
 ### Procedure
 
-1. Add olive oil to a heavy bottom pot over medium low heat.  Add
-   garlic and stir gently with a wooden spoon.
+1. Add olive oil to a small sauce pan over medium low heat.  Add
+   garlic and stir gently with a spoon.
 
 2. Just before the garlic starts to get brown, add oregano and tomato
    paste.  Stir and cook for another minute.
@@ -84,8 +89,8 @@ sauce, and the crispy pieces of pork make a good pizza topping.
    tomatoes.  Turn the heat to high and dump the entire can in.  Using
    the same can, fill 1/4 of the way with water and add to sauce.
 
-4. Simmer gently while occasionally stirring for 20-30 minutes.  Add
-   salt and sugar to taste.
+4. Bring the heat down and simmer gently while occasionally stirring
+   for 20-30 minutes.  Add salt to taste.
 
 5. Optional: purree the sauce with a blender again and add a whole
    basil stem while it cools.
