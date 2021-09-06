@@ -19,7 +19,7 @@ pick-me-up for a Sunday lunch or an indulgent after school snack.
 - butter (1 tbsp)
 - white sugar (1 tbsp)
 
-[^1]: works best with [Krang Bread]
+[^1]: best with [Krang Bread]
 
 ## Procedure
 
@@ -42,4 +42,4 @@ pick-me-up for a Sunday lunch or an indulgent after school snack.
 
 6. Cool the sandwich in the fridge while you assemble the rest of lunch.
 
-[Krang Bread]: (krang-bread.md)
+[Krang Bread]: krang-bread.md
