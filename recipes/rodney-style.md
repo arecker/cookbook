@@ -6,7 +6,7 @@ Author: Alex Recker
 
 ![](images/rodney-style.jpg)
 
-This butter fried, sugar dusted, crustless peanut butter & jelly
+This crustless, butter-fried, sugar-dusted peanut butter & jelly
 sandwich delivers an excellent sugar rush, making it the perfect
 pick-me-up for a Sunday lunch or an indulgent after school snack.
 
