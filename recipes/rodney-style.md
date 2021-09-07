@@ -40,6 +40,9 @@ pick-me-up for a Sunday lunch or an indulgent after school snack.
    Flip and slide the sandwich around so both sides get a good coating
    of sugar while it cools.
 
-6. Cool the sandwich in the fridge while you assemble the rest of lunch.
+6. Cool the sandwich in the fridge while you assemble the rest of
+   lunch.
+
+![](images/rodney-approves.jpg)
 
 [Krang Bread]: krang-bread.md
