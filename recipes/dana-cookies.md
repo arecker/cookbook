@@ -2,6 +2,8 @@
 
 Author: Marissa Recker
 
+![](./images/dana-cookies.jpg)
+
 This recipe was graciously given to me by my college anatomy professor and mentor Dr. Dana.  The batches are big (3-4 dozen), so please be generous and hand them out to as many friends, neighbors, and classmates as you can.
 
 These cookies are best enjoyed frozen.  Stash whatever you don't give away in a bag in the back of your freezer.
@@ -9,7 +11,7 @@ These cookies are best enjoyed frozen.  Stash whatever you don't give away in a 
 ## Materials
 
 - butter, unsalted (3 sticks)
-- brown sugar, light (2.25 cups)
+- brown sugar, dark (2.25 cups)
 - white sugar (1 cup)
 - eggs (2)
 - vanilla extract (2 tsp)
