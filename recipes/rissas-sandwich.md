@@ -40,7 +40,7 @@ sized tupperware container - something you can shake vigorously.
    assembling the sandwich, shake thoroughly to form the dressing and
    combine with the vegetables.
 
-## The Sandwich
+### The Sandwich
 
 1. Start with two slices of fresh sourdough bread.  Smear them both
    with mayo and dijon mustard.
