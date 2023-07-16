@@ -2,7 +2,7 @@
 
 Author: Marissa Recker
 
-This recipe was graciously given to me by my college anatomy professor and mentor Dr. Dana.  The batches are big, so please be generous and hand them out to as many friends, neighbors, and classmates as you can.
+This recipe was graciously given to me by my college anatomy professor and mentor Dr. Dana.  The batches are big (3-4 dozen), so please be generous and hand them out to as many friends, neighbors, and classmates as you can.
 
 These cookies are best enjoyed frozen.  Stash whatever you don't give away in a bag in the back of your freezer.
 
