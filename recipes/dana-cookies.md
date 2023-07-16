@@ -35,8 +35,9 @@ These cookies are best enjoyed frozen.  Stash whatever you don't give away in a 
 
 6. Lightly grease a large sheet pan.  Using an ice-cream scooper, scoop portions of the batter onto the pan about 1.5 inches apart.
 
-7. Bake the cookies on the middle rack for 8-10 minutes or until golden brown.  Take them out of the oven and allow them to finish baking on the hot pan for another 10 minutes or until they harden.
+7. Bake[^2] the cookies on the middle rack for 8-10 minutes or until golden brown.  Take them out of the oven and allow them to finish baking on the hot pan for another 10 minutes or until they harden.
 
 8. Use a spatula to gently remove them from the pan.  Cookies will be gooey until they are cooled.
 
 [^1]: the cookies will turn out too chewy if you over-mix, so mix as little as possible.  For this reason, it's recommended to do the final mixing with hands.
+[^2]: use convection if availble, otherwise the cookies will still turn out fine
