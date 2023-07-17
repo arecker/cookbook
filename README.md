@@ -34,12 +34,12 @@ the format **ingredient, form (quantity)**.
 - sugar (1 tbsp)
 ```
 
-### Procedure
+#### Procedure
 
 List and enumerate the steps to create the recipe.  Be sure to use
 easy-to-read imperative voice
 
-### References
+#### References
 
 Optionally, feel free to include references and original sources.
 Just define the links at the bottom of the document.
