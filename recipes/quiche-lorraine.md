@@ -11,8 +11,11 @@ Also, I learned that a quiche can pretty much be garnished with _anything_, so l
 - bacon
 - leeks
 - pancetta
-- carmelized mushrooms
+- carmelized onions
+- mushrooms
 - cheese
+- dill
+- parsley
 
 ## Crust
 
