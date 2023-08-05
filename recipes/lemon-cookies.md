@@ -35,7 +35,7 @@ This recipe makes 2-3 dozen small cookies.
 
 7. Bake for 8-10 minutes.  Take them out just before the edges start to become golden brown.
 
-8.  Let cookies cool on the pan.  Remove with a spatula once they are solid.
+8. Let cookies cool on the pan.  Remove with a spatula once they are solid.
 
 [^1]: the dough might look grainy at this stage.  Don't worry, this is just the acid from the lemon.  It will look normal after you add the rest of the ingredients.
 
