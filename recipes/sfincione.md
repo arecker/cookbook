@@ -12,20 +12,19 @@ it up.
 
 ### Materials
 
-- water, warm  (2 cups)
+- water, warm (2 cups)
 - yeast, active dry (1 tsp)
 - kosher salt (1.5 tsp)
-- white sugar (1 tsp)
-- honey (1 tsp)
+- honey (2 tsp)
 - olive oil (3 tsp)
-- all purpose flour (4.3 cups)
+- all purpose flour (4 cups)
 
 ### Procedure
 
 1. Pour warm water into the bowl of a stand mixer and add yeast.
    Allow yeast to bloom for 10 minutes.
-2. Add salt sugar, honey, olive oil, and flour.  Mix with dough hook
-   for 6-7 minutes, occasionally scraping down the sides.  The dough
+2. Add salt, honey, olive oil, and flour.  Mix with dough hook for 6-7
+   minutes, occasionally scraping down the sides.  The dough
    should be very sticky, hugging the bottom of the bowl.
 3. Cover in mixing bowl and leave in a warm place for 90 minutes.
 
@@ -34,20 +33,15 @@ it up.
 ### Materials
 
 - olive oil (2 tbsp)
-- yellow onion (1)
+- yellow onion (2-3)
 - red pepper flakes (1 tsp)
 - tomato paste (1 tbsp)
 - dried oregano (1 tsp)
 - anchovy fillets, save oil (4)
-- marinara sauce (1 26 oz jar) [^1]
+- san marzano tomatoes, blended (1 28 oz can)
 - water (0.25 cups)
 - kosher salt
 - pepper
-
-[^1]: if you don't have marinara, you can blend a 28 oz can of peeled
-    tomatoes with salt, sugar, and a splash of balsamic vinegar.
-    There's plenty of flavor in the sauce already - it won't make much
-    of a difference.
 
 ### Procedure
 
@@ -55,7 +49,7 @@ it up.
    Heat for 6-7 minutes until the onions turn translucent.
 2. Add pepper, tomato paste, anchovies, oregano, and red pepper
    flakes.  Stir and continue to heat until the anchovies disappear.
-3. Add marinara sauce, using the water to rinse out the jar and
+3. Add blended tomatoes, using the water to rinse out the jar and
    combine.  Simmer sauce for 20 minutes and add salt and pepper to
    taste.
 4. Turn the heat off and let cool, then pour into a blender.  Blend
