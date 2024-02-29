@@ -8,7 +8,7 @@ Author: Dirk Recker, written by Joe Lewnard
 
 Notes:
 
-- services: four to six
+- serves: four to six
 - recommended wine pairing: Hogue 2000 Cabernet/Merlot Columbia Valley
 
 ## Materials
