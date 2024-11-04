@@ -75,3 +75,28 @@ General rules for making good stock:
 12. Let stock cool in fridge overnight.  In the morning, scrape the waxy layer of fat off the top and discard.
 
 13. The stock is now ready.  You can warm it up and make smaller portions, concentrate it further, or just freeze the whole batch until you need it.
+
+### Optional: Turkey Jous
+
+On the day of serving, you can even further enhance your stock by making this delicious _jous_.  You need:
+
+- shallot (1)
+- carrot (1)
+- celery (1)
+- peppercorns (1 tbsp)
+- poultry herbs, fresh
+- turkey neck (1-2)
+- turkey fat (1 tsp)
+- brandy (1 shot)
+
+Here is the procedure:
+
+1. Roughly chop shallots, carrots, and celery and set aside.  Tie all the herbs together in a bundle and keep it ready.
+
+2. Add turkey fat to a small saucepan and place on the stove with medium-high heat.  Sear all sides of the turkey neck.
+
+3. Remove seared turkey neck and set aside.  Add vegetables and swirl in the pan for 1-2 minutes, but do not fry.
+
+4. Set the heat to high and add the turkey neck and juices.  Just before the mixture starts to burn, add the brandy.
+
+5. Add all of your stock to the pan with the herbs bouquet and simmer for 1-2 hours.  Strain all the solids.  Use the delicious mixture in gravy and or alone as a finishing sauce for the turkey.
