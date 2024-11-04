@@ -2,6 +2,8 @@
 
 Author: Alex Recker
 
+![](./images/turkey-stock.jpg)
+
 This recipe yields about 1 gallon of stock.  It is made in two stages:
 
 1. **White Stock** - gently simmering meat and vegetables together to form a clearish yellow colored stock
