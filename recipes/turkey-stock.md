@@ -60,7 +60,7 @@ General rules for making good stock:
 
 5. Remove seared meat and set aside.  Add chopped onions, carrots, and celery.  Swirl in the pan for 1-2 minutes, but do not fry the vegetables.
 
-6. Turn the heat on HIGH and add seared meat and accumulated juices.  Add a splash of cold water and deglaze, scraping the bottom of the stockpot to detach brown bits.  Cover the meat will cold water and slowly bring to a simmer.
+6. Turn the heat on HIGH and add seared meat and accumulated juices.  Add a splash of cold water and deglaze, scraping the bottom of the stockpot to detach brown bits.  Add all the white stock from the previous step and slowly bring to a simmer.
 
 7. When the wings have finished roasting, remove the pan and carefully place the roasted wings into the stockpot.
 
