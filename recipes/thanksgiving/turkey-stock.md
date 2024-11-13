@@ -14,7 +14,8 @@ General rules for making good stock:
 - Do not over-boil the stock at any point.  This will encourage impurities to break down and infiltrate your flavor profile.
 - Do not let stock sit in the fridge for longer than 3-4 days.  Instead, re-freeze and thaw as needed.
 - Always bring stock to a simmer before using in food and consuming.
-- If possible, concentrate your stock down to the exact quantity you need in your recipe and add salt just before serving.
+- If possible, concentrate your stock down to the exact quantity you need in your recipe and add salt just before serving (for example, when making a special meal, sometimes I like to concentrate 2 quarts of stock into 1 for extra flavor)
+- All these quantities are just suggestions.  You can use as little (or as much) meat as you want.
 
 ## Materials
 
@@ -30,7 +31,7 @@ General rules for making good stock:
 
 **Optional/Alternatives**
 
-- drumsticks work well for the white stock
+- drumsticks work well too.  For white stock, just boil them whole.  For brown stock, use a knife to remove portions of meat to sear and roast the bones in the oven
 - if you can't find enough turkey parts at the store, you can substitute chicken as well
 
 ## Procedure
