@@ -22,7 +22,7 @@ This only works with very soft butter.  Leave it on the counter for at least a d
 - pepper (to taste)
 - cling wrap
 
-## Procesure
+## Procedure
 
 1. Add warm butter to a big mixing bowl.  Smash it together with a rubber spatula and set aside.
 2. Pick the leaves off the fresh thyme, sage, rosemary, and parsley.  Use a knife to chop it all up into very fine pieces and add it to the bowl of butter.

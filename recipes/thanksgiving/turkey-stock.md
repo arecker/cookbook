@@ -28,6 +28,11 @@ General rules for making good stock:
 - peppercorns, whole (2 tbsp)
 - canola oil, or any high smoke point neutral oil (1 tbsp)
 
+**Optional/Alternatives**
+
+- drumsticks work well for the white stock
+- if you can't find enough turkey parts at the store, you can substitute chicken as well
+
 ## Procedure
 
 ### Make the White Stock
