@@ -2,7 +2,7 @@
 
 Author: Alex Recker
 
-![](./images/turkey-stock.jpg)
+![](../images/turkey-stock.jpg)
 
 This recipe yields about 1 gallon of stock.  It is made in two stages:
 
@@ -20,7 +20,7 @@ General rules for making good stock:
 
 - water, cold (excess)
 - kosher salt (excess)
-- turkey necks, defrosted (7-8)
+- turkey neck pieces, defrosted (7-8)
 - turkey wings, full sized, defrosted (4)
 - carrots, full sized (2)
 - celery (4 sticks)
@@ -75,6 +75,16 @@ General rules for making good stock:
 12. Let stock cool in fridge overnight.  In the morning, scrape the waxy layer of fat off the top and discard.
 
 13. The stock is now ready.  You can warm it up and make smaller portions, concentrate it further, or just freeze the whole batch until you need it.
+
+### Optional: Turkey Fat
+
+At any stage of the stock making, you can set aside the waxy layer that forms on top of the liquid and use it for cooking.  Before adding it to food, I'd recommend you purify it first.
+
+1. Add the fat to a small stainless steel sauce pan over medium heat.
+2. Bring the mixture up to a slight simmer.  This will (1) evaporate off the excess water and (2) fry the impurities at the bottom.
+3. Once the mixture starts to sputter, pour the fat through a fine mesh metal strainer into a bowl.
+
+Inspect the fat.  Good turkey fat should have a pure golden color (like clarified butter) and it should smell heavenly.  If it passes the eye/sniff test, transfer it to tupperware and freeze it until needed.
 
 ### Optional: Turkey Jous
 
