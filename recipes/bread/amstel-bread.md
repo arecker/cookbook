@@ -2,9 +2,9 @@
 
 Author: Alex Recker
 
-![](images/amstel-bread-1.jpg)
+![](../images/amstel-bread-1.jpg)
 
-![](images/amstel-bread-2.jpg)
+![](../images/amstel-bread-2.jpg)
 
 I proudly offer my recipe for Amstel bread - reliable, consistent, and
 low maintenance - it's like the M16 of dinner sides.  It makes a small

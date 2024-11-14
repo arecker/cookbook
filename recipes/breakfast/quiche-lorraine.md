@@ -2,7 +2,7 @@
 
 Author: Alex Recker
 
-![](images/quiche-lorraine.jpg)
+![](../images/quiche-lorraine.jpg)
 
 This is a direct copy of the _Quiche Lorraine_ recipe from my online French cooking class.  It's probably a little more involved than the quiche you'd make for a casual brunch, but it can be kind of a fun way to show off for a small group of friends.  This recipe covers making the crust and the custard from scratch, but feel free to just use a store bought crust or add your own riff on the custard.  This makes more than enough dough and custard to fill a shallow 10 inch tart dish.
 
@@ -51,7 +51,7 @@ The base of the quiche is a classic savory short crust.  This makes a pretty goo
 
 10.  Stipple the bottom of the crust with a fork.  Line the dish with a loose piece of parchment paper and fill it in with uncooked white rice.  Bake the dough in the tart dish for 15 minutes.  You can store the blind baked crust in the fridge overnight until you bake the quiche.
 
-![](./images/quiche-lorraine-crust.jpg)
+![](../images/quiche-lorraine-crust.jpg)
 
 ## Custard
 

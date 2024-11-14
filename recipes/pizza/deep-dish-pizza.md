@@ -1,6 +1,6 @@
 # Deep Dish Pizza
 
-![](images/deep-dish-pizza.png)
+![](../images/deep-dish-pizza.png)
 
 This is my deep dish pizza recipe, which was the result of about a
 month of on-and-off trials trying to find the best deep dish pizza

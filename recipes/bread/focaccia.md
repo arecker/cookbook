@@ -2,7 +2,7 @@
 
 Author: Sarah Recker
 
-![](images/focaccia.jpg)
+![](../images/focaccia.jpg)
 
 ## Materials
 
@@ -14,8 +14,7 @@ Author: Sarah Recker
 - 2 teaspoons flaky sea salt, plus extra for sprinkling
 - 2 sprigs of fresh rosemary [^2]
 
-[^1]: plus more for drizzling (helps if you have one of those drizzler
-    bottles) I love Trader Joe’s Spanish olive oil!
+[^1]: plus more for drizzling (helps if you have one of those drizzler bottles) I love Trader Joe’s Spanish olive oil!
 
 [^2]: or any desired herbs, fresh or dried / other toppings
 

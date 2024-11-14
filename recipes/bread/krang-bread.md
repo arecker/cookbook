@@ -2,9 +2,9 @@
 
 Author: Alex Recker
 
-![](images/krang-bread.png)
+![](../images/krang-bread.png)
 
-![](images/krang-bread-crumb.jpg)
+![](../images/krang-bread-crumb.jpg)
 
 Krang Bread is a simple, no fuss, versatile sourdough.  It's makes as
 good of a sandwich, as it does french toast, as it does regular toast,
@@ -13,7 +13,7 @@ butter.
 
 ## Materials
 
-- [krang][^1] (113 g)
+- [krang](./krang.md)[^1] (113 g)
 - water, cold (548 g)
 - kosher salt (13 g)
 - bread flour[^2] (652 g)
@@ -67,5 +67,3 @@ butter.
 
 11. Bake at 450F for 40 minutes, uncovered.  Immediately remove from
     pan and leave to cool on a rack.
-
-[krang]: krang.md

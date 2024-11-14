@@ -2,9 +2,9 @@
 
 Author: Sarah Recker
 
-![](images/blueberry-muffin-bread-1.jpg)
+![](../images/blueberry-muffin-bread-1.jpg)
 
-![](images/blueberry-muffin-bread-2.jpg)
+![](../images/blueberry-muffin-bread-2.jpg)
 
 ## Materials
 
@@ -63,6 +63,4 @@ Author: Sarah Recker
 
 ## References
 
-- [Sally's Baking Addiction: Blueberry Muffin Bread]
-
-[Sally's Baking Addiction: Blueberry Muffin Bread]: https://sallysbakingaddiction.com/blueberry-muffin-bread/
+- [Sally's Baking Addiction: Blueberry Muffin Bread](https://sallysbakingaddiction.com/blueberry-muffin-bread/)

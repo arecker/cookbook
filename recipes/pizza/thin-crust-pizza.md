@@ -2,7 +2,7 @@
 
 Author: Alex Recker
 
-![](./images/thin-crust-pizza.jpg)
+![](../images/thin-crust-pizza.jpg)
 
 This is my thin crust pizza recipe.  It makes about four fourteen inch pizzas.  Use whatever toppings you want: thinly sliced red onions, fried pancetta, pork sausage, bell peppers.  The important thing about this recipe is the dough and the technique.
 
@@ -92,7 +92,7 @@ Obviously, the dough and the sauce made from the previous sections are required 
 
 7. Take the pizza out and let it cool before slicing.
 
-![](./images/thin-crust-pizza-miles.jpg)
+![](../images/thin-crust-pizza-miles.jpg)
 
 ## References
 

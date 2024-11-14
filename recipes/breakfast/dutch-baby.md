@@ -1,6 +1,6 @@
 # Dutch Baby
 
-![](images/dutch-baby.jpg)
+![](../images/dutch-baby.jpg)
 
 ## Materials
 

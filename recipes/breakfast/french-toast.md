@@ -1,6 +1,6 @@
 # French Toast
 
-![](images/french-toast.jpg)
+![](../images/french-toast.jpg)
 
 ## Materials
 
@@ -32,7 +32,7 @@
    mixture.  Dump a little more cinnamon sugar on top and serve.
 8. Serve immediately.  Wipe out the pan of any remaining butter before
    beginning another batch.
-   
+
 ## References
 
 - [French Cooking Academy: How to make traditional pain perdu]

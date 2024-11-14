@@ -19,7 +19,7 @@ pick-me-up for a Sunday lunch or an indulgent after school snack.
 - butter (1 tbsp)
 - white sugar (1 tbsp)
 
-[^1]: best with [Krang Bread]
+[^1]: best with [Krang Bread](./bread/krang-bread.md)
 
 ## Procedure
 

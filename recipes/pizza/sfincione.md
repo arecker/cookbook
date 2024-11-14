@@ -1,6 +1,6 @@
 # Sfincione
 
-![](images/sfincione.jpg)
+![](../images/sfincione.jpg)
 
 _Sfincione_ is a pizza made with anchovies and onions, and it is
 traditionally served in Sicily around Christmas.  We discovered it on
