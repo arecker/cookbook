@@ -37,3 +37,7 @@ Author: Alex Recker
 The neck and back meat can be seared later to enhance the stock used to make the gravy.
 
 ![](../images/turkey-jous-parts.jpg)
+
+This is the back piece I remove from the breast/cage of the bird.  You can keep it to make stock or soups, but I don't like to use seasoned meat in stocks (by now I have [brined](./turkey-brine.md) my turkey) so I just remove some of the back meat and throw it away.
+
+![](../images/turkey-back-piece.jpg)
