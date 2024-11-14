@@ -74,13 +74,17 @@ General rules for making good stock:
 
 9. Gently simmer the stock for 3-4 hours (or until the meat is falling off the bone).
 
-10. Turn off the heat and allow to cool.  Use tongs to remove large pieces of bone and discard.  Pour the rest through a pasta strainer and discard pieces.
+10. Turn off the heat and allow to cool.  Use tongs to remove large pieces of bone and discard.  Pour the rest through a strainer and discard pieces.
 
-11. Perform one final filtration to collect fine particles and grit.  Line a mesh strainer with a wet paper towel.  Use a ladel to scoop portions of the stock into the strainer.  If stock stops running through the filter, then it's probably clogged with scum and impure fat - just dump it back and change out the paper towel.
+11. Let stock cool in fridge overnight.
 
-12. Let stock cool in fridge overnight.  In the morning, scrape the waxy layer of fat off the top and discard.
+12. In the morning, scrape the waxy layer of fat off the top and discard.  Transfer all the stock to a stockpot and warm it up on the stove.
 
-13. The stock is now ready.  You can warm it up and make smaller portions, concentrate it further, or just freeze the whole batch until you need it.
+13. Perform one final filtration of the stock.  Line a fine metal strainer with a paper towel and pour the stock through it.  If it gets clogged, just dump it back into the unfiltered stock and change the paper towel.
+
+14. Pour the stock evenly into 4 quart sized containers.  If you are short, just top each of them off with water.  If you have too much, you can either simmer off some of the water or just fill up an extra container.
+
+15. The stock is now ready.  Move to the freezer until needed.
 
 ### Optional: Turkey Fat
 
