@@ -66,17 +66,17 @@ This step takes a while, but the croutons will keep well in a sealed container a
 
 4. Wipe the bottom and sides of the pyrex dish with herb butter.
 
-5. Dump the mixing bowl into the tray.  Spread evenly and gently tamp it down, but don't smash it.
+5. Dump the mixing bowl into the dish.  Spread evenly and gently tamp it down, but don't smash it.
 
 6. Arrange little knobs of herb butter on top of the stuffing over the whole tray.  Place some in the corners too.
 
-7. Cover the tray tightly in foil and place in the fridge overnight.
+7. Cover the dish tightly in foil and place in the fridge overnight.
 
 ### Baking the Stuffing
 
 1. Pre-heat the oven to 400F and turn on convection.
 
-2. Place pyrex dish in the oven, leaving the foil on top.  Bake for 40 minutes.
+2. Place cold pyrex dish in the oven, leaving the foil on top.  Bake for 40 minutes.
 
 3. Remove foil.  Bake for an additional 20 minutes.
 
