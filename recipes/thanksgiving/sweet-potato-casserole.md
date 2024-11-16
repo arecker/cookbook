@@ -23,14 +23,12 @@ The family classic.  Make as much as you want, but Jeremy is going to eat it all
 
 ## Procedure
 
-1. Preheat oven to 350F.  Lightly grease 9 x 13 baking pan.
+1. Preheat oven to 350F.  Lightly grease 9x13 baking pan.
 
 2. Bake sweet potatoes till soft.  Timing varies based on size of potatoes.  Cool briefly and remove skin.
 
-3. In large mixing bowl, mash potatoes while hot.  Add salt, hard butter, eggs, vanilla extract, cinnamon, sugar, and half and half.
+3. In large mixing bowl, mash potatoes while hot.  Add salt, hard butter, eggs, vanilla extract, cinnamon, sugar, and half and half.  Continually mash the mixture until thoroughly combined, then transfer to baking dish.
 
-4. Mix to combine.  Transfer to baking dish.
+4. In medium bowl, combine softened butter, flour, brown sugar and chopped pecans.  Sprinkle over sweet potato mixture.
 
-5. In medium bowl, combine softened butter, flour, brown sugar and chopped pecans.  Sprinkle over sweet potato mixture.
-
-6. Bake 30 min covered in foil.  Uncover and brown topping.
+5. Bake 30 min covered in foil.  Uncover and brown topping.
