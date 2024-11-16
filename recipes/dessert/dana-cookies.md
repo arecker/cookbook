@@ -2,7 +2,7 @@
 
 Author: Marissa Recker
 
-![](./images/dana-cookies.jpg)
+![](../images/dana-cookies.jpg)
 
 This recipe was graciously given to me by my college anatomy professor and mentor Dr. Dana.  The batches are big (3-4 dozen), so please be generous and hand them out to as many friends, neighbors, and classmates as you can.
 

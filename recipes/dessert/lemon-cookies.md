@@ -2,7 +2,7 @@
 
 Author: Marissa Recker
 
-![](images/lemon-cookies.jpg)
+![](../images/lemon-cookies.jpg)
 
 This recipe makes 2-3 dozen small cookies.
 

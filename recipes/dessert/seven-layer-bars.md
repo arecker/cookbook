@@ -1,6 +1,6 @@
 # Seven Layer Bars
 
-![](./images/seven-layer-bars.jpg)
+![](../images/seven-layer-bars.jpg)
 
 Author: Jane Recker
 

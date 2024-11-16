@@ -2,7 +2,7 @@
 
 As featured in _The Daily Herald's_ "Cook of the Week"
 
-![](./images/dirks-salmon-salad.jpg)
+![](../images/dirks-salmon-salad.jpg)
 
 Author: Dirk Recker, written by Joe Lewnard
 
@@ -33,4 +33,4 @@ Notes:
 
 3. On individual salad plates or bowls divide the salad greens and top with a piece of salmon.  Decorate the edge of the plate with blackberries.  Sprinkle cheese and walnuts randomly over the mixture.
 
-![](./images/dirks-salmon-salad-screenshot.png)
+![](../images/dirks-salmon-salad-screenshot.png)

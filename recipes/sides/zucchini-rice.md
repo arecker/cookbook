@@ -2,11 +2,9 @@
 
 Author: Kelly Recker
 
-![](./images/zucchini-rice.jpg)
+![](../images/zucchini-rice.jpg)
 
-This is Kelly's Zucchini Rice.  This is a great way to use up zucchini
-and cilantro, all while getting your kids to eat more veggies.  Goes
-great with tacos.
+This is Kelly's Zucchini Rice.  This is a great way to use up zucchini and cilantro, all while getting your kids to eat more veggies.  Goes great with tacos.
 
 ## Materials
 
@@ -29,8 +27,7 @@ great with tacos.
 ## Procedure
 
 1. Cook rice with your favorite method.
-2. Add zucchini, corn, beans, cilantro, lime, and butter.  Mix and add
-   salt and pepper to taste.
+2. Add zucchini, corn, beans, cilantro, lime, and butter.  Mix and add salt and pepper to taste.
 3. Let sit for five minutes.  Serve with green onion and cotija.
 
-![](./images/zucchini-rice-recipe-card.jpg)
+![](../images/zucchini-rice-recipe-card.jpg)

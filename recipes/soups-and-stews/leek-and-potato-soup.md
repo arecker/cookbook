@@ -1,6 +1,6 @@
 # Leek and Potato Soup
 
-![](images/leek-and-potato-soup.png)
+![](../images/leek-and-potato-soup.png)
 
 ## Materials
 
@@ -31,9 +31,7 @@
    desired consistency.
 7. Season with salt, white pepper, and cyan pepper to taste.  Serve
    with sprinkled cheese and submerged toasted bread.
-   
+
 ## References
 
-- [Food Wishes: Potato Leek Soup Recipe]
-
-[Food Wishes: Potato Leek Soup Recipe]: https://youtu.be/WCUBhS42eTg
+- [Food Wishes: Potato Leek Soup Recipe](https://youtu.be/WCUBhS42eTg)

@@ -2,7 +2,7 @@
 
 Author: Alex and Marissa Recker
 
-![](images/mistake-cake.jpg)
+![](../images/mistake-cake.jpg)
 
 On the night before Rodney's fourth birthday, Marissa found this
 random chocolate cake recipe to try.  To help save time while prepping
@@ -47,7 +47,7 @@ _Preheat oven to 350 F_
 
 4. Pour the batter out into two lightly buttered and floured 9 inch
    cake pans.
-   
+
 5. Bake for 30 minutes at 350F.  Allow it to cool in the pan.
 
 ## References
@@ -55,4 +55,3 @@ _Preheat oven to 350 F_
 - [The Best Chocolate Cake Recipe Ever]
 
 [The Best Chocolate Cake Recipe Ever]: https://addapinch.com/the-best-chocolate-cake-recipe-ever/
-
