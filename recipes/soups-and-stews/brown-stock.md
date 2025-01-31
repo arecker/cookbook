@@ -37,7 +37,9 @@ Use a boning knife to carve pieces of meat from the beef neck bones.  Rinse the 
 
 ![](../images/brown-stock-bones.jpg)
 
-Place a separate stainless steel pain on medium high heat and add vegetable oil.  When the oil at searing temperature, add all the chicken wings to the pan.  If you cannot fit all the chicken wings, it is fine to do them in batches.
+Rinse the chicken wings in a bowl of cold water.  Pat them dry and set them aside.
+
+Place a separate stainless steel pain on medium high heat and add vegetable oil.  When the oil is at searing temperature, add all the chicken wings to the pan.  If you cannot fit all the chicken wings, it is fine to do them in batches.
 
 ![](../images/brown-stock-chicken-wings-1.jpg)
 
