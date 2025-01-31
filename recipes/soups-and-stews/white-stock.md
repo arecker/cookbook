@@ -55,7 +55,7 @@ Set the heat to medium-low.  Let the mixture simmer for 3-4 hours until the meat
 
 ![](../images/white-stock-strain.jpg)
 
-Cover the container and place in the fridge overnight.  In the morning, use a spoon to remove the waxy layer of fat on top of the stock.
+Top off the stock with cold water to make it an even 1 gallon (if you have more than a gallon, you can place it back on the stove and reduce it, or you can just leave it as is).  Cover the container and place in the fridge overnight.  In the morning, use a spoon to remove the waxy layer of fat on top of the stock.
 
 ![](../images/white-stock-fat.jpg)
 
