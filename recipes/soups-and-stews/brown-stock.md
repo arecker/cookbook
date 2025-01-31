@@ -61,7 +61,7 @@ Have a pitcher of cold water nearby.  Place the _frond_ pan back on the stove at
 
 Dump the chicken wings and beef meat back into the pan and continue to swirl.  Let the heat come back, then dump in a splash of cold water.  Use a wooden spoon to detach the _frond_ from the bottom of the pan.
 
-![](../images/brown-stock-deglaze.jpg)
+![](../images/brown-stock-deglazing.jpg)
 
 Turn off the heat, then transfer everything into the larger stockpot where the white stock is simmering.  The searing pan should be pretty much clean, but if there is more _frond_ left over, you can place it back on the heat and use more cold water to detach it.
 
