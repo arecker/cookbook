@@ -1,5 +1,9 @@
 # White Stock
 
+![](../images/white-stock.jpg)
+
+Author: Alex Recker
+
 This recipe makes 1 gallon of unseasoned white stock.  It can be used as a base for soups and stews, concentrated down to make sauces, or even used as a foundation to make other stocks.
 
 Some general rules with homemade stocks:
@@ -47,6 +51,12 @@ Add a splash of cold water to stop the boiling, then add the onions, carrots, ce
 
 ![](../images/white-stock-veggies.jpg)
 
-Set the heat to medium-low.  Let the mixture simmer for 3-4 hours until the meat is falling off the bone.
+Set the heat to medium-low.  Let the mixture simmer for 3-4 hours until the meat is falling off the bone.  Turn the heat off and pour the stock through a fine strainer.  Discard the meat.
+
+![](../images/white-stock-strain.jpg)
+
+Cover the container and place in the fridge overnight.  In the morning, use a spoon to remove the waxy layer of fat on top of the stock.
+
+![](../images/white-stock-fat.jpg)
 
 [^2]: If you see lots of blood in the water, it would be a good idea to dump out the water and rinse again.  Blood will change the color of the stock and introduce a bitter flavor
