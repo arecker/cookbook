@@ -2,6 +2,8 @@
 
 Author: Alex Recker
 
+![](../images/brown-stock.jpg)
+
 This recipe makes 1 gallon of unseasoned brown stock.  It can be used as a base for soups and stews, concentrated down to make sauces, or even used as a foundation to make other stocks.
 
 Some general rules with homemade stocks:
@@ -66,3 +68,19 @@ Dump the chicken wings and beef meat back into the pan and continue to swirl.  L
 Turn off the heat, then transfer everything into the larger stockpot where the white stock is simmering.  The searing pan should be pretty much clean, but if there is more _frond_ left over, you can place it back on the heat and use more cold water to detach it.
 
 ![](../images/brown-stock-transfer.jpg)
+
+After the bones have roasted for 1-2 hours, take them out of the oven.  Drop them into the stockpot.
+
+![](../images/brown-stock-bones-done.jpg)
+
+While the roasting dish is still hot, add a splash of cold water.  Use a wooden spoon to scrape off the bottom.  Transfer the liquid from the roasting dish to the stock pot.
+
+![](../images/brown-stock-roasting-dish.jpg)
+
+Simmer the stock for 4-5 hours.  Top it off with cold water throughout the time as needed.  You will know it's finished when the meat is practically liquefied.  Use tongs to remove the larger pieces of bone and discard.  Strain the stock into a large container and discard the meat, bones, and vegetables.  If your volume is less than a gallon, top the container off with cold water.
+
+![](../images/brown-stock-strain.jpg)
+
+Place the stock in the fridge overnight.  In the morning, use a spoon to remove the solid layer of fat as well as any blotches of cloudy scum that have formed under the surface.
+
+![](../images/brown-stock-fat.jpg)
