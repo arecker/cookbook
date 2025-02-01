@@ -2,7 +2,7 @@
 
 Author: Alex Recker
 
-Alex's Chili is a quick and easy way to please your guests.  It only takes 5 days to prepare.
+Alex's Chili is a quick and easy way to please your guests.  It only takes 5 days to prepare.  This recipe makes about 2 gallons of chili, which is plenty for up to 30 people.
 
 ## Materials
 
