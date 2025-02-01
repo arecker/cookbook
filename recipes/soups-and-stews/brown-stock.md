@@ -14,7 +14,7 @@ Some general rules with homemade stocks:
 
 ## Materials
 
-- [white stock](./white-stock.md) (1 gallon)
+- [white stock](./white-stock.md) or water[^1] (1 gallon)
 - beef neck bones (3-4 lbs)
 - chicken wings, drums and flats separated  (1-2 lbs)
 - white onion, roughly diced (half)
@@ -23,9 +23,7 @@ Some general rules with homemade stocks:
 - whole peppercorns (1 tbsp)
 - bay leaf
 - kosher salt (pinch)
-- vegetable oil (1 tbsp)[^1]
-
-[^1]: any neutral oil works fine
+- vegetable oil (1 tbsp)[^2]
 
 ![](../images/brown-stock-materials.jpg)
 
@@ -69,7 +67,7 @@ Turn off the heat, then transfer everything into the larger stockpot where the w
 
 ![](../images/brown-stock-transfer.jpg)
 
-After the bones have roasted for 1-2 hours, take them out of the oven.  Use tongs to remove the bones from the dish and add them into the stockpot.  If there is any fat in the roasting dish, pour it into a separate container and reserve if desired.[^2]
+After the bones have roasted for 1-2 hours, take them out of the oven.  Use tongs to remove the bones from the dish and add them into the stockpot.  If there is any fat in the roasting dish, pour it into a separate container and reserve if desired.[^3]
 
 ![](../images/brown-stock-bones-done.jpg)
 
@@ -85,4 +83,6 @@ Place the stock in the fridge overnight.  In the morning, use a spoon to remove 
 
 ![](../images/brown-stock-fat.jpg)
 
-[^2]: the resulting beef tallow from this process makes a delicious replacement to any high smoke point oil, but I've found it doesn't always render out of neck bones
+[^1]: starting with white stock is recommended for a richer base, but if you are short on time you can make a simpler "short stock" based on water
+[^2]: any neutral oil works fine
+[^3]: the resulting beef tallow from this process makes a delicious replacement to any high smoke point oil, but I've found it doesn't always render out of neck bones
