@@ -69,7 +69,7 @@ Turn off the heat, then transfer everything into the larger stockpot where the w
 
 ![](../images/brown-stock-transfer.jpg)
 
-After the bones have roasted for 1-2 hours, take them out of the oven.  Drop them into the stockpot.
+After the bones have roasted for 1-2 hours, take them out of the oven.  Use tongs to remove the bones from the dish and add them into the stockpot.  If there is any fat in the roasting dish, pour it into a separate container and reserve if desired.[^2]
 
 ![](../images/brown-stock-bones-done.jpg)
 
@@ -84,3 +84,5 @@ Simmer the stock for 4-5 hours.  Top it off with cold water throughout the time 
 Place the stock in the fridge overnight.  In the morning, use a spoon to remove the solid layer of fat as well as any blotches of cloudy scum that have formed under the surface.
 
 ![](../images/brown-stock-fat.jpg)
+
+[^2]: the resulting beef tallow from this process makes a delicious replacement to any high smoke point oil, but I've found it doesn't always render out of neck bones
