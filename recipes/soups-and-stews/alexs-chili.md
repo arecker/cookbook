@@ -4,7 +4,7 @@ Author: Alex Recker
 
 ![](../images/chili.jpg)
 
-Alex's Chili is a quick and easy way to please your guests.  It only takes 5 days to prepare.  This recipe makes about 2.5 gallons of chili, which is plenty for up to 30 people.  It's also gluten free (up until the point you drown a fat piece of cornbread in the bowl).
+Alex's Chili is a quick and easy way to please your guests.  It only takes 5 days to prepare.  This recipe makes about 2.75 gallons of chili, which is plenty for up to 30 people.  It's also gluten free (up until the point you drown a fat piece of cornbread in the bowl).
 
 ## Materials
 
