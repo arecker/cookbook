@@ -9,9 +9,9 @@ Alex's Chili is a quick and easy way to please your guests.  It only takes 5 day
 ## Materials
 
 - chorizo (1.5-2 lbs)
-- boneless beef ribs (4-4.5 lbs)[^2]
+- boneless beef ribs (4-4.5 lbs)[^1]
 - ground beef (2-3 lbs)
-- sesame oil (0.5 cup)[^1]
+- sesame oil (0.5 cup)[^2]
 - white onion, diced (1)
 - green bell pepper, diced (1)
 - jalapeño, diced (1)
@@ -102,6 +102,6 @@ Just before serving, add the green onion tops and stir.  For best results, place
 
 ![](../images/chili-green-onions.jpg)
 
-[^1]: can substitute beef fat in as well
-[^2]: the term "boneless beef ribs" may be misleading, the ones I get are only $3-6 per lb.  This may be the less fatty back ribs, or possibly even just a lean piece of sirloin cut into strips.  I wouldn't recommend a premium piece of meat, like actual bone-in beef ribs.  If you can't find "boneless beef ribs", I would just get a big piece of sirloin or chuck roast and cut it into 10-12 small portions.
+[^1]: the term "boneless beef ribs" may be misleading, the ones I get are only $3-6 per lb.  This may be the less fatty back ribs, or possibly even just a lean piece of sirloin cut into strips.  I wouldn't recommend a premium piece of meat, like actual bone-in beef ribs.  If you can't find "boneless beef ribs", I would just get a big piece of sirloin or chuck roast and cut it into 10-12 small portions.
+[^2]: can substitute some or all beef fat as well, if you got any from making the brown stock
 [^3]: if you get anxious about smoking meat, don't worry - this is very low stakes BBQ.  In fact this meat will likely come out very dry and underseasoned (the beef especially).  This is perfectly fine, since it's going to be dropped into the chili.  The important part of this process is that we imbue the meat with blessed smoke flavor from our holy burnt offering.
