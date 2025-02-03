@@ -70,7 +70,7 @@ Lastly, warm up the brown stock on the stove in a separate pot.
 
 ### Cooking the Chili
 
-Place a large stockpot on high heat and add all the sesame oil and ground beef.  Use a wooden spoon to break up and mix the ground beef.  When the meat has turned completely brown, add all the contents of the **veggie bowl**.
+Place a large stockpot on high heat and add all the sesame oil and ground beef.  Use a wooden spoon to break up and mix the ground beef.  When the meat has turned completely brown, add all the contents of the **veggie bowl** along with a big pinch of kosher salt.
 
 ![](../images/chili-add-veggies.jpg)
 
