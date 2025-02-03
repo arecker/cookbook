@@ -86,7 +86,7 @@ Continue to cook the mixture until nearly all the kimchi juice is gone.  Immedia
 
 ![](../images/chili-add-stock.jpg)
 
-Bring the pot to a boil, then reduce the heat to a simmer.  Add the rest of the ingredients: chopped kimchi, smoked chorizo, smoked beef rib, corn, black beans.  Let the chili simmer for at least 2 hours.  Occasionally stir the pot to loose up clumps of meat that gather on the bottom.
+Bring the pot to a boil, then reduce the heat to a simmer.  Add the rest of the ingredients: chopped kimchi, smoked chorizo, smoked beef rib, corn, and black beans (dump in the whole can of beans, including the liquid).  Let the chili simmer for at least 2 hours.  Occasionally stir the pot to loose up clumps of meat that gather on the bottom.
 
 ![](../images/chili-simmer.jpg)
 
