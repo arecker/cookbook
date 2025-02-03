@@ -96,7 +96,7 @@ While the chili simmers, you can be a little naughty with secret ingredients.  S
 
 Add 10 tbsp of potato starch to a separate bowl.  Stir in just enough cold water to dissolve all the potato starch.  When all the potato starch is dissolved, add it to the pot of chili and stir to combine.  You may have to do this in batches, and you can also use more or less to achieve your desired thickness.  Once the potato starch is in, turn the heat to low (refrain from boiling from here on out).
 
-Add salt to taste.  For this batch in the photos, I needed 20 grams of kosher salt.
+Add salt to taste.  For this batch in the photos, I needed 19 grams of kosher salt.
 
 Just before serving, add the green onion tops and stir.  For best results, place the chili back in the fridge and warm it up the next day.
 
