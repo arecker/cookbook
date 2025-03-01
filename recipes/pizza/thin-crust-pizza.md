@@ -23,7 +23,7 @@ Another good move: you can use diced pancetta in the sauce.  Just fry it in oliv
 
 - dry active yeast (1 packet)
 - water, warm (2 cup)
-- honey (2 tsp)
+- honey (2 tbsp)
 - kosher salt (2 tsp)
 - olive oil (2 tbsp)
 - bread flour (excess)
@@ -49,7 +49,7 @@ Another good move: you can use diced pancetta in the sauce.  Just fry it in oliv
 ### Materials
 
 - olive oil (3 tbsp, or enough to cover bottom of pan)
-- garlic, sliced (3 cloves)
+- shallots, diced (3-4)
 - kosher salt
 - tomato paste (1 tbsp)
 - oregano (1 tbsp)
@@ -57,15 +57,15 @@ Another good move: you can use diced pancetta in the sauce.  Just fry it in oliv
 
 ### Procedure
 
-1. Add olive oil to a small sauce pan over medium low heat.  Add garlic and stir gently with a spoon.
+1. Add olive oil to a small sauce pan over medium low heat.  Add shallots and stir gently with a spoon.
 
-2. Just before the garlic starts to get brown, add oregano and tomato paste.  Stir and cook for another minute.
+2. Sweat down the shallots.  Add oregano and tomato paste.  Stir and cook for another minute.
 
 3. Use a blender (immersion blender is easiest) to puree the can of tomatoes.  Turn the heat to high and dump the entire can in.  Using the same can, fill 1/4 of the way with water and add to sauce.
 
 4. Bring the heat down and simmer gently while occasionally stirring for 20-30 minutes.  Add salt to taste.
 
-5. Optional: purree the sauce with a blender again and add a whole basil stem while it cools.
+5. Optional: purree the sauce with a blender again and add a whole basil stem while it cools.  Strain the sauce one final time.
 
 ## Pizza
 
