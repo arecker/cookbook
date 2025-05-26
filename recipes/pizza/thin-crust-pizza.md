@@ -4,45 +4,66 @@ Author: Alex Recker
 
 ![](../images/thin-crust-pizza.jpg)
 
-This is my thin crust pizza recipe.  It makes about four fourteen inch pizzas.  Use whatever toppings you want: thinly sliced red onions, fried pancetta, pork sausage, bell peppers.  The important thing about this recipe is the dough and the technique.
-
-My recipe calls for bread flour, which makes for a much gummier crust.  Your dough won't puff up as much, but I think it yields a much better crust.
-
-I like to proof the dough balls on a pan on top the stove.  While the oven is pre-heating to 500F, I get a nice jet blast of hot air on the back of the stove - just make sure you rotate the pan around every few minutes so the dough doesn't get too hot or you'll dry out the dough!
-
-Another good move: you can use diced pancetta in the sauce.  Just fry it in olive oil at the beginning of the recipe and take it out before you add the garlic.  The pork fat really enhances the taste of the sauce, and the crispy pieces of pork make a good pizza topping.
-
-## Special Equipment
-
-- pizza peel
-- pizza stone
+The Recker family thin crust pizza has had many iterations.  It may continue to change, but these constants remain: (1) it makes a huge mess in the kitchen and (2) it's delicious.
 
 ## Dough
 
 ### Materials
 
 - dry active yeast (1 packet)
-- water, warm (2 cup)
-- honey (2 tbsp)
+- water, warm (2 cups)
 - kosher salt (2 tsp)
 - olive oil (2 tbsp)
-- bread flour (excess)
+- honey (2 tbsp)
+- bread flour (760g)
+
+![](../images/thin-crust-pizza-dough-materials.jpg)
 
 ### Procedure
 
-1. Add water, yeast, and honey to a bowl.  Set aside for ten minutes until it shows bubbles.
+Pour warm water into a large mixing bowl.  Add half the yeast packet and discard the rest[^1].
 
-2. Add salt and olive oil.  Stir.
+![](../images/thin-crust-pizza-dough-1.jpg)
 
-3. Add a little bit of bread flour (about a half cup at a time) and stir into the liquid until it's smooth like a batter.  Keep doing this a little bit at a time until the batter turns into a shaggy dough.
+Add kosher salt.
 
-4. Using a mixer or your hands, kneed the dough until it "cleans" the sides of the bowl.  Continue to kneed until the dough looks shiny and springs back to the poke.  Add flour when the ball gets too sticky.  It takes a while and it's a good arm workout, so enjoy it.
+![](../images/thin-crust-pizza-dough-2.jpg)
 
-5. Place the dough ball in a lightly oiled bowl.  Cover tightly in tinfoil and leave in a warm place for two hours.
+Add the olive oil, then the honey.  Use the same measuring spoon so that honey slides easily off the surface greased with oil.
 
-6. Take out dough and place on a lightly floured counter.  Cut the dough into four portions.  Folding the dough into itself from top to bottom (easiest to see in the referenced video), roll both portions into a small, smooth ball.
+![](../images/thin-crust-pizza-dough-3.jpg)
 
-7. Leave dough out on floured plastic wrap or a silpat.  Cover loosely with lightly oiled plastic and then a towel.  Set aside in a warm place for 30 minutes.
+Stir the mixture together.
+
+![](../images/thin-crust-pizza-dough-4.jpg)
+
+Add a small amount of flour to the bowl.  Use a rubber spatula to stir the mixture until the flour is dissolved.
+
+![](../images/thin-crust-pizza-dough-5.jpg)
+
+Continue to stir in small amounts of flour.  When you are about 80% through the measured flour, the mixture will transition from a thick batter to a shaggy dough.
+
+![](../images/thin-crust-pizza-dough-6.jpg)
+
+Take a break from adding flour.  Keeping everything in the bowl, use one hand to smash the dough while the other hand turns the bowl in a circle.  Continue kneading, flipping, and rolling the dough - eventually the dough will become stickier.  With a light touch, roll the dough around so it "cleans" flour off the sides of the bowl.
+
+![](../images/thin-crust-pizza-dough-7.jpg)
+
+Pour a small amount of flour onto the counter and dump the dough out on top.  Pour the rest of the flour on top of the dough.
+
+![](../images/thin-crust-pizza-dough-8.jpg)
+
+Knead the dough by hand.  Use any method you want (there are lots of youtube videos for kneading pizza dough), but just make sure you keep smashing, stretching, and folding the dough.  By the time the dough ball has absorbed all the flour on the table, the dough should spring back to the touch (test this by poking an indent with your finger and watching for how fast the hole springs back).  Keep kneading the dough until it achieves a high level of spring, as this will make it much easier to roll the dough out later.
+
+![](../images/thin-crust-pizza-dough-9.jpg)
+
+Pack the dough into a tight ball, then place it back in the mixing bowl.  Drizzle it with olive oil, then roll it around the bowl to coat the inside with oil.
+
+![](../images/thin-crust-pizza-dough-10.jpg)
+
+Cover the bowl tightly with plastic wrap or tinfoil.  Leave in a warm place to bulk rise for 3 hours.
+
+[^1]: A 3 hour bulk rise yields great flavor, but if you are short on time, you can achieve a pretty decent dough in 1 hour.  Just use the entire yeast packet and leave the dough some place warm.
 
 ## Sauce
 
