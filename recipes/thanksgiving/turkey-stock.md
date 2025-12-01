@@ -15,7 +15,7 @@ General rules for making good stock:
 - Do not let stock sit in the fridge for longer than 3-4 days.  Instead, re-freeze and thaw as needed.
 - Always bring stock to a simmer before using in food and consuming.
 - If possible, concentrate your stock down to the exact quantity you need in your recipe and add salt just before serving (for example, when making a special meal, sometimes I like to concentrate 2 quarts of stock into 1 for extra flavor)
-- All these quantities are just suggestions.  You can use as little (or as much) meat as you want.
+- All these quantities are just suggestions.  You can use as little (or as much) meat as you want, but you should shoot for **4 lbs total** for each stage (1 lb per quart of stock).
 
 ## Materials
 
