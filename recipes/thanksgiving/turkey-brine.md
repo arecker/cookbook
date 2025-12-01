@@ -17,8 +17,8 @@ The core of the brine is the water, salt, and sugar.  Follow these rations close
 - 5 gallon paint bucket with lid (can get from Home Depot)
 - cold water (2 gallons)
 - ice (0.5 gallon)
-- salt, kosher (4 cups)
-- brown sugar (2 cups)
+- salt, kosher (2 cups)
+- brown sugar (1 cups)
 - parchment paper
 
 With additional flavoring agents, the rest is up to you.  You really can't go wrong - feel free to throw in any additional flavors.
