@@ -15,7 +15,7 @@ Graham cracker cookie bars with chocolate and marshmallow fluff. No campfire nee
 - white sugar (3/4 cup)
 - eggs (2)
 - vanilla extract (2 tsp)
-- regular size chocolate bars, such as Hershey's (9 bars, about 1.5 oz each)
+- chocolate bars, regular size, such as Hershey's (13.5 oz total)
 - marshmallow fluff (1 tub or 16 oz)
 - shortening or nonstick spray, for the pan
 
